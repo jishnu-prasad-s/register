@@ -10,7 +10,8 @@
   },
 
   "record": {
-    "TXT": ["google-site-verification=5tBsObp6vjDyUaUYmvpkS2lHic66LOKCxTn1V-ozZyw"]
+    "TXT": ["google-site-verification=5tBsObp6vjDyUaUYmvpkS2lHic66LOKCxTn1V-ozZyw"],
+    "CNAME": "jishnupsamal.pages.dev"
   },
 
   "proxied": false
